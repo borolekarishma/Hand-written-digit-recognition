@@ -1,0 +1,26 @@
+>> main
+
+Result for N = 10 :
+Average of number of iterations for PLA without weight initialization: 3.150000
+Average of number of iterations for PLA with with weight initialization using linear regression: 0.510000
+
+Result for N = 50 :
+Average of number of iterations for PLA without weight initialization: 8.640000
+Average of number of iterations for PLA with with weight initialization using linear regression: 4.570000
+
+Result for N = 100 :
+Average of number of iterations for PLA without weight initialization: 13.620000
+Average of number of iterations for PLA with with weight initialization using linear regression: 9.110000
+
+Result for N = 200 :
+Average of number of iterations for PLA without weight initialization: 20.820000
+Average of number of iterations for PLA with with weight initialization using linear regression: 16.340000
+
+Result for N = 500 :
+Average of number of iterations for PLA without weight initialization: 37.300000
+Average of number of iterations for PLA with with weight initialization using linear regression: 33.530000
+
+Result for N = 1000 :
+Average of number of iterations for PLA without weight initialization: 58.280000
+Average of number of iterations for PLA with with weight initialization using linear regression: 53.860000
+>> 
